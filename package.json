@@ -1,0 +1,19 @@
+{
+  "name": "typinggame",
+  "version": "1.0.0",
+  "description": "Simple Typing Practice Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rahultoora1008/TypingGame.git"
+  },
+  "author": "Rahul Toora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahultoora1008/TypingGame/issues"
+  },
+  "homepage": "https://github.com/rahultoora1008/TypingGame#readme"
+}
